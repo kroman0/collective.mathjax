@@ -4,7 +4,7 @@ Changes
 1.1.2 (Unreleased)
 ------------------
 
-- Fixed js resouces
+- Fixed js resources
   [kroman0]
 
 1.1.1 (2013-02-05)
